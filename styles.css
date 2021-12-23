@@ -17,3 +17,8 @@ footer {
     display: flexbox;
     justify-content: space-between;
 }
+
+img {
+    display: block;
+    justify-content: center;
+}
