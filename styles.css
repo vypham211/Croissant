@@ -16,6 +16,7 @@ footer {
     color: green;
     display: flexbox;
     justify-content: space-between;
+    margin: 0 10px;
 }
 
 img {
