@@ -16,6 +16,10 @@ footer {
     color: green;
     display: flexbox;
     justify-content: space-between;
+    
+}
+
+footer a {
     margin: 0 10px;
 }
 
