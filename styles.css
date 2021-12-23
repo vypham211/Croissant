@@ -1,0 +1,19 @@
+body {
+    background: yellow;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    color: green;
+    display: flexbox;
+    justify-content: space-between;
+}
